@@ -6,7 +6,7 @@ Creates server groups in OpenStack.
 License
 -------
 
-GPLv3
+MIT
 
 Author Information
 ------------------
